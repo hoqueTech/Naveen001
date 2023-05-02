@@ -9,8 +9,8 @@ public class LoginHomePage {
 		
 		String Pass="1234";
 		
-		System.out.println("Login--succesfully............");
-		System.out.println("Open Login Page......................");
+		System.out.println("Login-googl page is open -succesfully............");
+		
 	}
 
 }
