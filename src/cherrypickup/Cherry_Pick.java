@@ -7,7 +7,7 @@ public class Cherry_Pick {
 
 		
 String name ="Naveen";
-
+int sal=100;
 	}
 
 }
