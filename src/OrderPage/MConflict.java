@@ -13,7 +13,7 @@ public class MConflict {
 		
 		int sal=10;
 
-int sal=10;
+
 	}
 
 }
