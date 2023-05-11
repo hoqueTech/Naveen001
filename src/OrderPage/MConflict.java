@@ -9,7 +9,7 @@ public class MConflict {
 
 		int n1=100;
 		int m1=10;
-		System.out.println(n/m);
+		System.out.println(n1/m1);
 
 
 	}
