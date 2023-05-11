@@ -14,7 +14,7 @@ public class Classic {
     String name="Hoque";
 
 		
-		int age=26;
+		int age=20;
 		int salary=1000;
 
 	}
