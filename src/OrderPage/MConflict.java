@@ -11,7 +11,7 @@ public class MConflict {
 		int m1=10;
 		System.out.println(n1/m1);
 
-
+int sal=10;
 	}
 
 }
