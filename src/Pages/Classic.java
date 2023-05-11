@@ -12,6 +12,9 @@ public class Classic {
 		
 		System.out.println(z);
     String name="Hoque";
+		
+		int age=26;
+		int salary=1000;
 
 	}
 
