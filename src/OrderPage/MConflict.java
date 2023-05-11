@@ -10,6 +10,8 @@ public class MConflict {
 		int n1=100;
 		int m1=10;
 		System.out.println(n1/m1);
+		
+		int sal=10;
 
 int sal=10;
 	}
